@@ -3,7 +3,14 @@
     padding: 0;
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
-    background-color: #FFFFFF;
+    background-color:#FFF5EE;
+    
+}
+
+.container {
+    width: 414px;
+    height: autopx;
+    margin: 0 auto;    
 }
 
 a {
@@ -98,7 +105,7 @@ button {
     color: #000000;
 }
 
-.container {
+.links {
     text-align: center;
     margin: 18px auto 80px auto;
 }
