@@ -9,8 +9,9 @@
 
 .container {
     width: 414px;
-    height: autopx;
-    margin: 0 auto;    
+    height: auto;
+    margin: 0 auto;  
+    display: block;  
 }
 
 a {
